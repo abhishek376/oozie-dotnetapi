@@ -3,7 +3,7 @@ oozie-dotnetapi
 
 Simple Oozie .NET API
 
-Call the Oozie workflow using the Oozie REST API. 
+Calling the Oozie workflow from C# using the Oozie REST API. 
 
 For more detailed information http://abhishek376.wordpress.com/2013/05/31/oozie-workflow-net-api/
 
